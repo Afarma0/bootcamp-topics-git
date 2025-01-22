@@ -1,0 +1,7 @@
+* Agile/Scrum
+* HTML/CSS
+* JavaScript
+* Hosting
+* TypeScript
+* Angular
+
